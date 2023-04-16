@@ -1,0 +1,9 @@
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    height: 40px;
+    
+}
+.studentclass{
+    text-decoration: none;
+}
